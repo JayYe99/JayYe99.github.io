@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Junjie Ye</title>
-    <link>/author/junjie-ye/</link>
-      <atom:link href="/author/junjie-ye/index.xml" rel="self" type="application/rss+xml" />
-    <description>Junjie Ye</description>
+    <title>3 | Junjie Ye</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
-      <title>Junjie Ye</title>
-      <link>/author/junjie-ye/</link>
+      <title>3</title>
+      <link>/publication-type/3/</link>
     </image>
     
     <item>
@@ -17,6 +17,14 @@
       <link>/publication/2021_arxiv_pvt/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/publication/2021_arxiv_pvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-Day Object Tracking for Unmanned Aerial Vehicle</title>
+      <link>/publication/2021_arxiv_adtrack/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_arxiv_adtrack/</guid>
       <description></description>
     </item>
     

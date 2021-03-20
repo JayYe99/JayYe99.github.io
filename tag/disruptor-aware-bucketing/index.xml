@@ -17,10 +17,7 @@
       <link>/publication/2020_tgrs_ibri-tracker/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020_tgrs_ibri-tracker/</guid>
-      <description>&lt;center&gt;
-![IBRI_workflow](featured.jpg)
-&lt;small&gt;Tracking procedure of the proposed IBRI tracker in the k-th frame. Historical interval responses are incorporated into the filter training phase after denoising by a novel disruptor-aware scheme based on response bucketing.&lt;/small&gt;
-&lt;/center&gt;</description>
+      <description></description>
     </item>
     
   </channel>

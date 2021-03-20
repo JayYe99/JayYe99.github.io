@@ -17,10 +17,7 @@
       <link>/publication/2021_arxiv_pvt/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/publication/2021_arxiv_pvt/</guid>
-      <description>&lt;center&gt;
-![ADTrack_workflow](featured.png)
-&lt;small&gt;&lt;/small&gt;
-&lt;/center&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -28,11 +25,7 @@
       <link>/publication/2021_icra_adtrack/</link>
       <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
       <guid>/publication/2021_icra_adtrack/</guid>
-      <description>&lt;center&gt;
-![MKCT_workflow](featured.png)
-&lt;small&gt;Overall framework of the proposed ADTrack. ADTrack includes 3 stages: pretreatment, training, and detection, which are marked out by boxes in different colors. Dual filters, i.e., context filter and target-focused filter, training and detection follow routes in different colors. It can be seen that the final response shaded noises in context response, which indicates the validity of proposed dual filter.&lt;/small&gt;
-&lt;/center&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -40,12 +33,7 @@
       <link>/publication/2021_icra_mscf_tracker/</link>
       <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
       <guid>/publication/2021_icra_mscf_tracker/</guid>
-      <description>&lt;center&gt;
-![MKCT_workflow](featured.png)
-&lt;small&gt;Tracking procedure of the proposed MSCF tracker. Dashed boxes denote the variables to be solved in the main regression. As MTF in the red
-box is generated from search region in frame k, it is applied to adjust the altitude value of the cruciform pedestal.&lt;/small&gt;
-&lt;/center&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -53,11 +41,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
       <link>/publication/2021_icra_siamapn/</link>
       <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
       <guid>/publication/2021_icra_siamapn/</guid>
-      <description>&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34;&gt;
-&lt;small&gt;The overview of SiamAPN tracker. It composes of four subnetworks, i.e., feature extraction network, feature fusion network, anchor proposal network (APN), and muti-classification®ression network.&lt;/small&gt;&lt;/p&gt;
-&lt;/center&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -65,10 +49,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
       <link>/publication/2021_arxiv_adtrack/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/2021_arxiv_adtrack/</guid>
-      <description>&lt;center&gt;
-![ADTrack_workflow](featured.jpg)
-&lt;small&gt;Pipeline of ADTrack.&lt;/small&gt;
-&lt;/center&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -96,10 +77,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
       <link>/publication/2020_tgrs_ibri-tracker/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020_tgrs_ibri-tracker/</guid>
-      <description>&lt;center&gt;
-![IBRI_workflow](featured.jpg)
-&lt;small&gt;Tracking procedure of the proposed IBRI tracker in the k-th frame. Historical interval responses are incorporated into the filter training phase after denoising by a novel disruptor-aware scheme based on response bucketing.&lt;/small&gt;
-&lt;/center&gt;</description>
+      <description></description>
     </item>
     
   </channel>

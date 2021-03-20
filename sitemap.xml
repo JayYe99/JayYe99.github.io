@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/1/</loc>
+    <loc>/publication-type/3/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,6 +78,11 @@
   </url>
   
   <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2021-02-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/2021_icra_adtrack/</loc>
     <lastmod>2021-02-28T08:00:00+00:00</lastmod>
   </url>
@@ -113,6 +118,11 @@
   </url>
   
   <url>
+    <loc>/author/junjie-ye/</loc>
+    <lastmod>2021-02-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/2021_icra_mscf_tracker/</loc>
     <lastmod>2021-02-28T08:00:00+00:00</lastmod>
   </url>
@@ -135,11 +145,6 @@
   <url>
     <loc>/author/ziang-cao/</loc>
     <lastmod>2021-02-28T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -185,6 +190,11 @@
   <url>
     <loc>/project/uavdark135/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -234,10 +244,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/junjie-ye/</loc>
   </url>
   
   <url>
