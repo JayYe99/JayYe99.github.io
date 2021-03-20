@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guangze Zheng | Junjie Ye</title>
+    <link>/author/guangze-zheng/</link>
+      <atom:link href="/author/guangze-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guangze Zheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
+      <title>Guangze Zheng</title>
+      <link>/author/guangze-zheng/</link>
+    </image>
+    
+    <item>
+      <title>Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label</title>
+      <link>/publication/2021_icra_mscf_tracker/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      <guid>/publication/2021_icra_mscf_tracker/</guid>
+      <description>&lt;center&gt;
+![MKCT_workflow](featured.png)
+&lt;small&gt;Tracking procedure of the proposed MSCF tracker. Dashed boxes denote the variables to be solved in the main regression. As MTF in the red
+box is generated from search region in frame k, it is applied to adjust the altitude value of the cruciform pedestal.&lt;/small&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
