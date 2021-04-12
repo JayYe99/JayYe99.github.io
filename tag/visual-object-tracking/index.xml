@@ -5,12 +5,20 @@
     <link>/tag/visual-object-tracking/</link>
       <atom:link href="/tag/visual-object-tracking/index.xml" rel="self" type="application/rss+xml" />
     <description>Visual object tracking</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
       <title>Visual object tracking</title>
       <link>/tag/visual-object-tracking/</link>
     </image>
+    
+    <item>
+      <title>Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</title>
+      <link>/publication/2020_tie_mrcf-tracker/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_tie_mrcf-tracker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predictive Visual Tracking: A New Benchmark and Baseline Approach</title>
