@@ -213,8 +213,23 @@
   </url>
   
   <url>
+    <loc>/tag/low-light/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/uav-tracking/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/dark_tracking/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -278,12 +293,17 @@
   </url>
   
   <url>
-    <loc>/project/correlationfilterbasedvisualtracking/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <loc>/tag/siamese-network/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/uav-tracking/</loc>
+    <loc>/project/siamesenetwork/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/correlationfilterbasedvisualtracking/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   

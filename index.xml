@@ -69,6 +69,27 @@
     </item>
     
     <item>
+      <title>UAV Tracking at Night</title>
+      <link>/project/dark_tracking/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/dark_tracking/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Exploit low-light enhancement, denoising, domain adaption technologies to adapt SOTA tracking approaches to low-light conditions. With slight computational consumption, enable UAV tracking at night.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h3&gt;
+&lt;p&gt;Related works are presented as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Designed a &lt;strong&gt;Retinex-inspired&lt;/strong&gt; &lt;strong&gt;plug-and-play&lt;/strong&gt; deep low-light enhancer, dubbed &lt;strong&gt;DarkLighter&lt;/strong&gt;, to light up the darkness for UAV tracking. Experiments on a dark tracking benchmark verify its effectiveness in several trackers and superiority against other SOTA general low-light enhancement algorithms, with &lt;strong&gt;sufficient real-time speed on an embedded system&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_iros_darklighter/&#34;&gt;&lt;em&gt;DarkLighter: Light up the Darkness for UAV Tracking&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IROS 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>UAVDark135</title>
       <link>/project/uavdark135/</link>
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
@@ -97,6 +118,36 @@
     </item>
     
     <item>
+      <title>Siamese Network-Based UAV Tracking</title>
+      <link>/project/siamesenetwork/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/siamesenetwork/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Construct robust Siamese network-based trackers for high-performance UAV tracking. Through enhancing the anchor proposal process, feature fusion strategy, attention mechanism, etc, we have developed several robust deep learning-based trackers for UAV.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h3&gt;
+&lt;p&gt;Related works are presented as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed the &lt;strong&gt;anchor proposal network (APN)&lt;/strong&gt; for adaptive anchor proposing. Alleviated the hyper-parameters in anchor-based approaches and redundent anchors in anchor-free approaches simultaneously.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_icra_siamapn/&#34;&gt;&lt;em&gt;Siamese Anchor Proposal Network for High-Speed Aerial Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;ICRA 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/vision4robotics/SiamAPN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Onboard Real-Time Aerial Tracking with Efficient Siamese Anchor Proposal Network&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated &lt;strong&gt;self-attention&lt;/strong&gt; and &lt;strong&gt;cross-attention&lt;/strong&gt; into SiamAPN, enhanced the perception ability for various scale objects of the proposed SiamAPN++. Evaluation on UAV tracking datasets and &lt;strong&gt;real-world onboard test&lt;/strong&gt; demonstrate its effectiveness.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/vision4robotics/SiamAPN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;SiamAPN++: Siamese Attentional Aggregation Network for Real-Time UAV Tracking&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IROS 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Correlation Filter-Based UAV Tracking</title>
       <link>/project/correlationfilterbasedvisualtracking/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -116,7 +167,7 @@
 &lt;li&gt;
 &lt;p&gt;Proposed the &lt;strong&gt;response deviation-aware regularization&lt;/strong&gt; and the &lt;strong&gt;channel reliability aware regularization&lt;/strong&gt; to make full use of the crucial information in response maps and reliable channels. Experiments demonstrate the proposed MRCF&amp;rsquo;s superiority in numerous challenging UAV tracking scenarios. Further, an original UAV self-localization system based on the proposed tracking approach is constructed.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/vision4robotics/MRCF-Tracker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IEEE Transactions on Industrial Electronics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2020_tie_mrcf-tracker/&#34;&gt;&lt;em&gt;Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IEEE Transactions on Industrial Electronics&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;

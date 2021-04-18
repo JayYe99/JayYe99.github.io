@@ -48,7 +48,7 @@
 &lt;li&gt;
 &lt;p&gt;Proposed the &lt;strong&gt;response deviation-aware regularization&lt;/strong&gt; and the &lt;strong&gt;channel reliability aware regularization&lt;/strong&gt; to make full use of the crucial information in response maps and reliable channels. Experiments demonstrate the proposed MRCF&amp;rsquo;s superiority in numerous challenging UAV tracking scenarios. Further, an original UAV self-localization system based on the proposed tracking approach is constructed.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/vision4robotics/MRCF-Tracker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IEEE Transactions on Industrial Electronics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2020_tie_mrcf-tracker/&#34;&gt;&lt;em&gt;Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IEEE Transactions on Industrial Electronics&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
