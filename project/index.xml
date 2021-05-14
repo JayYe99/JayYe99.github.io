@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Junjie Ye</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jayye99.github.io/project/</link>
+      <atom:link href="https://jayye99.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2019 - 2021 Junjie Ye. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jayye99.github.io/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://jayye99.github.io/project/</link>
     </image>
     
     <item>
       <title>UAV Tracking at Night</title>
-      <link>/project/dark_tracking/</link>
+      <link>https://jayye99.github.io/project/dark_tracking/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/project/dark_tracking/</guid>
+      <guid>https://jayye99.github.io/project/dark_tracking/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Exploit low-light enhancement, denoising, domain adaption technologies to adapt SOTA tracking approaches to low-light conditions. With slight computational consumption, enable UAV tracking at night.&lt;/p&gt;
 &lt;hr&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>UAVDark135</title>
-      <link>/project/uavdark135/</link>
+      <link>https://jayye99.github.io/project/uavdark135/</link>
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/uavdark135/</guid>
+      <guid>https://jayye99.github.io/project/uavdark135/</guid>
       <description>&lt;p&gt;UAVDark135 is the very first UAV dark tracking benchmark dedicated to providing a comprehensive evaluation of tracking performance at night.&lt;/p&gt;
 &lt;p&gt;UAVDark135 consists of 135 sequences, most of which were shot by a standard UAV at night, including more than 125k manually annotated frames. The benchmark covers a wide range of scenes, e.g., road, ocean, street, highway, and lakeside, including a large number of objects, such as person, car, building, athlete, truck, and bike.&lt;/p&gt;
 &lt;p&gt;The benchmark is available &lt;a href=&#34;https://pan.baidu.com/s/1JcV_wTUSt9F8iBXiLCZQdQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (password: axci).&lt;/p&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>Siamese Network-Based UAV Tracking</title>
-      <link>/project/siamesenetwork/</link>
+      <link>https://jayye99.github.io/project/siamesenetwork/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/siamesenetwork/</guid>
+      <guid>https://jayye99.github.io/project/siamesenetwork/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Construct robust Siamese network-based trackers for high-performance UAV tracking. Through enhancing the anchor proposal process, feature fusion strategy, attention mechanism, etc, we have developed several robust deep learning-based trackers for UAV.&lt;/p&gt;
 &lt;hr&gt;
@@ -70,7 +70,7 @@
 &lt;p&gt;&lt;a href=&#34;../../publication/2021_icra_siamapn/&#34;&gt;&lt;em&gt;Siamese Anchor Proposal Network for High-Speed Aerial Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;ICRA 2021&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/vision4robotics/SiamAPN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Onboard Real-Time Aerial Tracking with Efficient Siamese Anchor Proposal Network&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_tgrs_siamapn_ext&#34;&gt;&lt;em&gt;Onboard Real-Time Aerial Tracking with Efficient Siamese Anchor Proposal Network&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2021&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -85,9 +85,9 @@
     
     <item>
       <title>Correlation Filter-Based UAV Tracking</title>
-      <link>/project/correlationfilterbasedvisualtracking/</link>
+      <link>https://jayye99.github.io/project/correlationfilterbasedvisualtracking/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/project/correlationfilterbasedvisualtracking/</guid>
+      <guid>https://jayye99.github.io/project/correlationfilterbasedvisualtracking/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Develop efficient and robust correlation filter (CF)-based trackers on CPU for UAV tracking in challenging scenarios. By mining temporal, spatial, and channel information properly, we have constructed several competitive tracking approaches while maintaining real-time performance on a single CPU.&lt;/p&gt;
 &lt;hr&gt;

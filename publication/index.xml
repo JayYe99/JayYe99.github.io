@@ -2,77 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Junjie Ye</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jayye99.github.io/publication/</link>
+      <atom:link href="https://jayye99.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2019 - 2021 Junjie Ye. All Rights Reserved.</copyright><lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jayye99.github.io/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://jayye99.github.io/publication/</link>
     </image>
     
     <item>
+      <title>Onboard Real-Time Aerial Tracking with Efficient Siamese Anchor Proposal Network</title>
+      <link>https://jayye99.github.io/publication/2021_tgrs_siamapn_ext/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jayye99.github.io/publication/2021_tgrs_siamapn_ext/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DarkLighter: Light up the Darkness for UAV Tracking</title>
-      <link>/publication/2021_iros_darklighter/</link>
+      <link>https://jayye99.github.io/publication/2021_iros_darklighter/</link>
       <pubDate>Mon, 12 Apr 2021 08:00:00 +0000</pubDate>
-      <guid>/publication/2021_iros_darklighter/</guid>
+      <guid>https://jayye99.github.io/publication/2021_iros_darklighter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</title>
-      <link>/publication/2020_tie_mrcf-tracker/</link>
+      <link>https://jayye99.github.io/publication/2020_tie_mrcf-tracker/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_tie_mrcf-tracker/</guid>
+      <guid>https://jayye99.github.io/publication/2020_tie_mrcf-tracker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive Visual Tracking: A New Benchmark and Baseline Approach</title>
-      <link>/publication/2021_arxiv_pvt/</link>
+      <link>https://jayye99.github.io/publication/2021_arxiv_pvt/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_arxiv_pvt/</guid>
+      <guid>https://jayye99.github.io/publication/2021_arxiv_pvt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking</title>
-      <link>/publication/2021_icra_adtrack/</link>
+      <link>https://jayye99.github.io/publication/2021_icra_adtrack/</link>
       <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
-      <guid>/publication/2021_icra_adtrack/</guid>
+      <guid>https://jayye99.github.io/publication/2021_icra_adtrack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label</title>
-      <link>/publication/2021_icra_mscf_tracker/</link>
+      <link>https://jayye99.github.io/publication/2021_icra_mscf_tracker/</link>
       <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
-      <guid>/publication/2021_icra_mscf_tracker/</guid>
+      <guid>https://jayye99.github.io/publication/2021_icra_mscf_tracker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Siamese Anchor Proposal Network for High-Speed Aerial Tracking</title>
-      <link>/publication/2021_icra_siamapn/</link>
+      <link>https://jayye99.github.io/publication/2021_icra_siamapn/</link>
       <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
-      <guid>/publication/2021_icra_siamapn/</guid>
+      <guid>https://jayye99.github.io/publication/2021_icra_siamapn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>All-Day Object Tracking for Unmanned Aerial Vehicle</title>
-      <link>/publication/2021_arxiv_adtrack/</link>
+      <link>https://jayye99.github.io/publication/2021_arxiv_adtrack/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_arxiv_adtrack/</guid>
+      <guid>https://jayye99.github.io/publication/2021_arxiv_adtrack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
-      <link>/publication/2020_tgrs_ibri-tracker/</link>
+      <link>https://jayye99.github.io/publication/2020_tgrs_ibri-tracker/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_tgrs_ibri-tracker/</guid>
+      <guid>https://jayye99.github.io/publication/2020_tgrs_ibri-tracker/</guid>
       <description></description>
     </item>
     

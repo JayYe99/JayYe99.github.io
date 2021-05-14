@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aerial object tracking | Junjie Ye</title>
-    <link>/tag/aerial-object-tracking/</link>
-      <atom:link href="/tag/aerial-object-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jayye99.github.io/tag/aerial-object-tracking/</link>
+      <atom:link href="https://jayye99.github.io/tag/aerial-object-tracking/index.xml" rel="self" type="application/rss+xml" />
     <description>Aerial object tracking</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2019 - 2021 Junjie Ye. All Rights Reserved.</copyright><lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jayye99.github.io/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
       <title>Aerial object tracking</title>
-      <link>/tag/aerial-object-tracking/</link>
+      <link>https://jayye99.github.io/tag/aerial-object-tracking/</link>
     </image>
     
     <item>
       <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
-      <link>/publication/2020_tgrs_ibri-tracker/</link>
+      <link>https://jayye99.github.io/publication/2020_tgrs_ibri-tracker/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_tgrs_ibri-tracker/</guid>
+      <guid>https://jayye99.github.io/publication/2020_tgrs_ibri-tracker/</guid>
       <description></description>
     </item>
     

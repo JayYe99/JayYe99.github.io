@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Correlation filter | Junjie Ye</title>
-    <link>/tag/correlation-filter/</link>
-      <atom:link href="/tag/correlation-filter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jayye99.github.io/tag/correlation-filter/</link>
+      <atom:link href="https://jayye99.github.io/tag/correlation-filter/index.xml" rel="self" type="application/rss+xml" />
     <description>Correlation filter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2019 - 2021 Junjie Ye. All Rights Reserved.</copyright><lastBuildDate>Sun, 28 Feb 2021 08:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jayye99.github.io/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
       <title>Correlation filter</title>
-      <link>/tag/correlation-filter/</link>
+      <link>https://jayye99.github.io/tag/correlation-filter/</link>
     </image>
     
     <item>
       <title>ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking</title>
-      <link>/publication/2021_icra_adtrack/</link>
+      <link>https://jayye99.github.io/publication/2021_icra_adtrack/</link>
       <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
-      <guid>/publication/2021_icra_adtrack/</guid>
+      <guid>https://jayye99.github.io/publication/2021_icra_adtrack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label</title>
-      <link>/publication/2021_icra_mscf_tracker/</link>
+      <link>https://jayye99.github.io/publication/2021_icra_mscf_tracker/</link>
       <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
-      <guid>/publication/2021_icra_mscf_tracker/</guid>
+      <guid>https://jayye99.github.io/publication/2021_icra_mscf_tracker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correlation Filter-Based UAV Tracking</title>
-      <link>/project/correlationfilterbasedvisualtracking/</link>
+      <link>https://jayye99.github.io/project/correlationfilterbasedvisualtracking/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/project/correlationfilterbasedvisualtracking/</guid>
+      <guid>https://jayye99.github.io/project/correlationfilterbasedvisualtracking/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Develop efficient and robust correlation filter (CF)-based trackers on CPU for UAV tracking in challenging scenarios. By mining temporal, spatial, and channel information properly, we have constructed several competitive tracking approaches while maintaining real-time performance on a single CPU.&lt;/p&gt;
 &lt;hr&gt;
