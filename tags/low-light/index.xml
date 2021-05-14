@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-light | Junjie Ye</title>
+    <link>https://jayye99.github.io/tags/low-light/</link>
+      <atom:link href="https://jayye99.github.io/tags/low-light/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low-light</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2019 - 2021 Junjie Ye. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jayye99.github.io/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
+      <title>Low-light</title>
+      <link>https://jayye99.github.io/tags/low-light/</link>
+    </image>
+    
+    <item>
+      <title>UAV Tracking at Night</title>
+      <link>https://jayye99.github.io/project/dark_tracking/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jayye99.github.io/project/dark_tracking/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Exploit low-light enhancement, denoising, domain adaption technologies to adapt SOTA tracking approaches to low-light conditions. With slight computational consumption, enable UAV tracking at night.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h3&gt;
+&lt;p&gt;Related works are presented as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Designed a &lt;strong&gt;Retinex-inspired&lt;/strong&gt; &lt;strong&gt;plug-and-play&lt;/strong&gt; deep low-light enhancer, dubbed &lt;strong&gt;DarkLighter&lt;/strong&gt;, to light up the darkness for UAV tracking. Experiments on a dark tracking benchmark verify its effectiveness in several trackers and superiority against other SOTA general low-light enhancement algorithms, with &lt;strong&gt;sufficient real-time speed on an embedded system&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_iros_darklighter/&#34;&gt;&lt;em&gt;DarkLighter: Light up the Darkness for UAV Tracking&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IROS 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

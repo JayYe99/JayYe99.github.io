@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siamese Network | Junjie Ye</title>
+    <link>https://jayye99.github.io/tags/siamese-network/</link>
+      <atom:link href="https://jayye99.github.io/tags/siamese-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siamese Network</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2019 - 2021 Junjie Ye. All Rights Reserved.</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jayye99.github.io/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
+      <title>Siamese Network</title>
+      <link>https://jayye99.github.io/tags/siamese-network/</link>
+    </image>
+    
+    <item>
+      <title>Siamese Network-Based UAV Tracking</title>
+      <link>https://jayye99.github.io/project/siamesenetwork/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jayye99.github.io/project/siamesenetwork/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Construct robust Siamese network-based trackers for high-performance UAV tracking. Through enhancing the anchor proposal process, feature fusion strategy, attention mechanism, etc, we have developed several robust deep learning-based trackers for UAV.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h3&gt;
+&lt;p&gt;Related works are presented as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed the &lt;strong&gt;anchor proposal network (APN)&lt;/strong&gt; for adaptive anchor proposing. Alleviated the hyper-parameters in anchor-based approaches and redundent anchors in anchor-free approaches simultaneously.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_icra_siamapn/&#34;&gt;&lt;em&gt;Siamese Anchor Proposal Network for High-Speed Aerial Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;ICRA 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_tgrs_siamapn_ext&#34;&gt;&lt;em&gt;Onboard Real-Time Aerial Tracking with Efficient Siamese Anchor Proposal Network&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated &lt;strong&gt;self-attention&lt;/strong&gt; and &lt;strong&gt;cross-attention&lt;/strong&gt; into SiamAPN, enhanced the perception ability for various scale objects of the proposed SiamAPN++. Evaluation on UAV tracking datasets and &lt;strong&gt;real-world onboard test&lt;/strong&gt; demonstrate its effectiveness.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/vision4robotics/SiamAPN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;SiamAPN++: Siamese Attentional Aggregation Network for Real-Time UAV Tracking&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IROS 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
