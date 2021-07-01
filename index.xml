@@ -98,7 +98,7 @@
 &lt;li&gt;
 &lt;p&gt;Designed a &lt;strong&gt;Retinex-inspired&lt;/strong&gt; &lt;strong&gt;plug-and-play&lt;/strong&gt; deep low-light enhancer, dubbed &lt;strong&gt;DarkLighter&lt;/strong&gt;, to light up the darkness for UAV tracking. Experiments on a dark tracking benchmark verify its effectiveness in several trackers and superiority against other SOTA general low-light enhancement algorithms, with &lt;strong&gt;sufficient real-time speed on an embedded system&lt;/strong&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;../../publication/2021_iros_darklighter/&#34;&gt;&lt;em&gt;DarkLighter: Light up the Darkness for UAV Tracking&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IROS 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_iros_darklighter/&#34;&gt;&lt;em&gt;DarkLighter: Light up the Darkness for UAV Tracking&lt;/em&gt;&lt;/a&gt; accepted by &lt;strong&gt;IROS 2021&lt;/strong&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -156,7 +156,7 @@
 &lt;li&gt;
 &lt;p&gt;Integrated &lt;strong&gt;self-attention&lt;/strong&gt; and &lt;strong&gt;cross-attention&lt;/strong&gt; into SiamAPN, enhanced the perception ability for various scale objects of the proposed SiamAPN++. Evaluation on UAV tracking datasets and &lt;strong&gt;real-world onboard test&lt;/strong&gt; demonstrate its effectiveness.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/vision4robotics/SiamAPN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;SiamAPN++: Siamese Attentional Aggregation Network for Real-Time UAV Tracking&lt;/em&gt;&lt;/a&gt; submitted to &lt;strong&gt;IROS 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_iros_siamapn&amp;#43;&amp;#43;&#34;&gt;&lt;em&gt;SiamAPN++: Siamese Attentional Aggregation Network for Real-Time UAV Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;IROS 2021&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
